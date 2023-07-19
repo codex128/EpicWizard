@@ -1,0 +1,15 @@
+/dist/
+/build/
+/nbproject/
+/nbproject/private/
+/resources/desktop-deployment/
+/*.so
+/*.dll
+*.gltf
+*.glb
+*.fbx
+*.obj
+*.mtl
+*.xcf
+*.blend1
+*.j3odata
